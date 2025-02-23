@@ -68,6 +68,4 @@ Este projeto está licenciado sob a MIT License.
 
 Esperamos que este guia tenha sido útil. Para mais informações, consulte a documentação oficial do systemd.
 
-```
 Este `README.md` fornece uma visão clara e detalhada sobre como ativar e verificar o TRIM em sistemas Linux, além de incluir seções para contribuições!
-```
